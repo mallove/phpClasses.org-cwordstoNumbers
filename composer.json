@@ -1,0 +1,14 @@
+{
+  "name": "phpClasses.org-cwordstoNumbers/cwordstoNumbers",
+  "type": "behat-extension",
+  "description": "Convert English words (e.g., first, fifth, five hundred and seventieth) to numbers",
+  "keywords": ["words to numbers", "cardinal", "ordinal"],
+  "homepage": "https://www.phpclasses.org/package/10082-PHP-Convert-text-with-an-amount-to-its-numeric-value.html",
+  "license": "GPL-2.0+",
+  "authors": [
+     {
+       "name": "Mohammed Asad",
+       "email": "asadgenx@github.com"
+     }
+  ],
+}
